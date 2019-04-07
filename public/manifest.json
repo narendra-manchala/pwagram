@@ -1,0 +1,32 @@
+{
+    "name": "Test 1",
+    "short_name": "Test",
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#FFFDD4",
+    "theme_color": "#234F43",
+    "description": "A test manifest file",
+    "dir": "ltr",
+    "lang": "en-US",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "",
+            "type": "image/png",
+            "size": "48x48"
+        },
+        {
+            "src": "",
+            "type": "image/png",
+            "size": "96x96"
+        }
+    ],
+    "related_applications": [
+        {
+            "platform": "play",
+            "url": "https://play.google.com/",
+            "id": "com.example.app1"
+        }
+    ]
+}
